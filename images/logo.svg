@@ -1,0 +1,18 @@
+
+<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
+
+<g transform="translate(5,8)">
+<polygon points="20,0 40,10 40,30 20,40 0,30 0,10" fill="#ff6b00"/>
+<polygon points="20,0 40,10 20,20 0,10" fill="#ff8c33"/>
+<polygon points="40,10 40,30 20,40 20,20" fill="#cc5500"/>
+</g>
+
+<text x="70" y="25" font-family="Inter, Arial" font-size="16" font-weight="600" fill="#111">
+Institute of
+</text>
+
+<text x="70" y="45" font-family="Inter, Arial" font-size="20" font-weight="700" fill="#111">
+Digital Risk
+</text>
+
+</svg>
